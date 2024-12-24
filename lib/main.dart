@@ -25,7 +25,7 @@ class CoursesApp extends StatelessWidget {
           routerConfig: AppRouter.router,
           debugShowCheckedModeBanner: false,
         );
-      },
+      },///
     );
   }
 }
